@@ -7,9 +7,7 @@ blog: true
 
 ### Book Thief
 
-#heading
-
-{% highlight html %}
+## heading 
 <span class = "heading">
 Currently reading 'The Book Theif', book review in progress.
 For starters, this book has the most interesting narrator.
