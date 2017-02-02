@@ -1,7 +1,8 @@
 ---
 title: "First Blog"
 layout: test
-date: 2017-02-02
+date: 2017-02-02 22:08
+blog: true
 ---
 
 ### Book Thief
