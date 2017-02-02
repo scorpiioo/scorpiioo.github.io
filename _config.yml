@@ -36,7 +36,7 @@ disqus: mydisqus
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+#twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -49,12 +49,12 @@ github: mygithub
 # reddit: username
 medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: astha1311@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Astha
+        bio: A wallflower
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
